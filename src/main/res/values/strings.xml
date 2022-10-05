@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyAPP</string>
+    <string name="go_pag1">Ir a la pagina 1</string>
+    <string name="go_pag2">Ir a la pagina 2</string>
+    <string name="go_pag3">Ir a la pagina 3</string>
+    <string name="pag1">Pagina 1</string>
+    <string name="pag2">Pagina 2</string>
+    <string name="pag3">Pagina 3</string>
+</resources>
